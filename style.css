@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.login{
+
+    text-align: center;
+    width: 30%;
+    border: 3px solid rgb(238, 238, 229);
+    margin: auto;
+    background-color: skyblue;
+    
+}
+.wallpaper{
+    background-image: url(gambar/sampul.jpg);
+    background-size: 100%;
+}
+.button{
+    background-color: rgb(23, 189, 255);
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 35%;
+    margin-top: 10%;
+}
